@@ -18,4 +18,4 @@ jobs:
   parameters:
     image_type: ubuntu2204
     image_readme_name: Ubuntu2204-Readme.md
-    agent_pool: ubuntu-latest
+    agent_pool: Default
